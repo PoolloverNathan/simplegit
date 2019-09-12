@@ -1,0 +1,2 @@
+# simplegit
+Git, simplified.
